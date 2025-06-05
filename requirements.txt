@@ -1,0 +1,6 @@
+pandas
+requests
+streamlit
+geopandas
+scikit-learn
+folium
