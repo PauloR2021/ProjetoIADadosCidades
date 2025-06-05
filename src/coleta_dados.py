@@ -1,5 +1,5 @@
 """"
-Desenvolvido por: Paulo Ricardo Soares
+Desenvolvedor: Paulo Ricardo Soares
 Data: 05/06/2025
 Hora: 18:14
 
